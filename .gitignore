@@ -1,0 +1,15 @@
+!.gitignore
+generated/
+_deps/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+install_manifest.txt
+*.cmake
+DartConfiguration.tcl
+CTestCostData.txt
+Testing/
+*.a
